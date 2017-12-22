@@ -1,0 +1,2 @@
+Study Blade and C++.
+
